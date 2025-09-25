@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: blue;
+    background-color: bisque;
+}
+
+h1 {
+    color: magenta;
+    font-size: 96px;
+    font-family: 'Courier New', Courier, monospace;
+}
